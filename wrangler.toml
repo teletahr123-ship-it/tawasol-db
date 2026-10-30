@@ -6,4 +6,4 @@ compatibility_date = "2025-10-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "tawasol-db"
-database_id = "ضع_هنا_المعرف_الذي_ستحصل_عليه_من_كلاود_فلاير"
+database_id = "a768cb1a-7d75-47e7-b509-577372c86e11"
