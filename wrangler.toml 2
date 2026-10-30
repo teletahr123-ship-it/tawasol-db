@@ -1,0 +1,9 @@
+name = "tawasol-chat"
+main = "worker.js"
+compatibility_date = "2025-10-01"
+
+# قاعدة بيانات D1 (يجب أن يبقى الاسم DB كما هو لأن الكود يعتمد عليه)
+[[d1_databases]]
+binding = "DB"
+database_name = "tawasol-db"
+database_id = "ضع_هنا_المعرف_الذي_ستحصل_عليه_من_كلاود_فلاير"
